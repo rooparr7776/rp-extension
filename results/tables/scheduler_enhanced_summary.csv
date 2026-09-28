@@ -1,0 +1,2 @@
+average_task_latency,average_waiting_time,queue_length,throughput
+"{'mean': np.float64(0.9187800000000002), 'std': np.float64(1.2412670766236366e-16), 'ci95': np.float64(1.0880185641326533e-16)}","{'mean': np.float64(0.9187800000000002), 'std': np.float64(1.2412670766236366e-16), 'ci95': np.float64(1.0880185641326533e-16)}","{'mean': np.float64(55439.0), 'std': np.float64(0.0), 'ci95': np.float64(0.0)}","{'mean': np.float64(1.0883998345632133), 'std': np.float64(0.0), 'ci95': np.float64(0.0)}"
